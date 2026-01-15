@@ -4,9 +4,7 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1NnF6Pu4xYYH_xiHFsgn02oxLhZQt1KwK
+这是一个叫爱了么的微信小程序，专注于带给每个用户温暖与爱
 
 ## Run Locally
 
